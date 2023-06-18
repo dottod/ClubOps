@@ -1,0 +1,6 @@
+sqlalchemy
+pymysql
+Flask
+pandas
+azure.identity
+azure.keyvault

@@ -1,0 +1,18 @@
+{
+    "amritasrclub_dw": {
+        "projectName": "club",
+        "indicator": "dw"
+    },
+    "chandigarhclub_dw": {
+        "projectName": "club",
+        "indicator": "dw"
+    },
+    "amritasrclub_stage": {
+        "projectName": "club",
+        "indicator": "stage"
+    },
+    "chandigarhclub_stage": {
+        "projectName": "club",
+        "indicator": "stage"
+    }
+}

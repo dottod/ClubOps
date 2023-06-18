@@ -1,0 +1,45 @@
+{
+    "replicate": [
+        "serverName",
+        "userName",
+        "password",
+        "schemaName"
+    ],
+    "change_live_systems": [
+        "serverName",
+        "userName",
+        "password",
+        "schemaName",
+        "query"
+    ],
+    "update_file": [
+        "serverName",
+        "userName",
+        "password",
+        "objectType",
+        "objectName",
+        "schemaName"
+    ],
+    "show_metadata": [
+        "serverName",
+        "userName",
+        "password"
+    ],
+    "initialize": [
+        "serverName",
+        "userName",
+        "password",
+        "fromServer",
+        "newClub",
+        "similarClub"
+    ],
+    "create_script": [
+        "serverName",
+        "userName",
+        "password",
+        "fromServer",
+        "newClub",
+        "similarClub",
+        "fileName"
+    ]
+}
